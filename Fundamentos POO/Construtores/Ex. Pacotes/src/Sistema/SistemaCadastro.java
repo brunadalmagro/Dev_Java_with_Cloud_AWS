@@ -1,4 +1,4 @@
-package Sitema;
+package Sistema;
 
 public class SistemaCadastro {
 }
