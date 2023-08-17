@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fundamentos POO.iml" filepath="$PROJECT_DIR$/.idea/Fundamentos POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getters and Setters/Getters and Setters.iml" filepath="$PROJECT_DIR$/Getters and Setters/Getters and Setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visibilidade de Recursos/Visibilidade de Recursos.iml" filepath="$PROJECT_DIR$/Visibilidade de Recursos/Visibilidade de Recursos.iml" />
+    </modules>
+  </component>
+</project>
