@@ -1,8 +1,6 @@
 package Exemplo;
 
-import Exemplo.FacebookMessenger;
-import Exemplo.Telegram;
-import Exemplo.MSNMessenger;
+import Exemplo.ServicoMensagemInstantanea;
 
 /*
  * Simulação do uso das classes
