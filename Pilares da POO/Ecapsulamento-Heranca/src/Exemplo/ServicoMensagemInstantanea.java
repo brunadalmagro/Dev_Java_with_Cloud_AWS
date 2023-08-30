@@ -14,7 +14,7 @@ public class ServicoMensagemInstantanea {
     }
 
     //métodos privadas, visíveis somente na classe
-    private void validarConectadoInternet() {
+    protected void validarConectadoInternet() {
         System.out.println("Validando se está conectado a internet");
     }
     private void salvarHistoricoMensagem() {

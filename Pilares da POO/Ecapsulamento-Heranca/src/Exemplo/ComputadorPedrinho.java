@@ -13,12 +13,10 @@ public class ComputadorPedrinho {
         msn.receberMensagem();
 
     FacebookMessenger fcb = new FacebookMessenger();
-
         fcb.enviarMensagem();
         fcb.receberMensagem();
 
     Telegram tlg = new Telegram();
-
         tlg.enviarMensagem();
         tlg.receberMensagem();
     }
