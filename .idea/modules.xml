@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conhecendo Collections Java/Conhecendo Collections Java.iml" filepath="$PROJECT_DIR$/Conhecendo Collections Java/Conhecendo Collections Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos POO/Construtores/Construtores.iml" filepath="$PROJECT_DIR$/Fundamentos POO/Construtores/Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dev_Java_with_Cloud_AWS.iml" filepath="$PROJECT_DIR$/.idea/Dev_Java_with_Cloud_AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos POO/Enums/Enums.iml" filepath="$PROJECT_DIR$/Fundamentos POO/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos POO/Getters and Setters/Getters and Setters.iml" filepath="$PROJECT_DIR$/Fundamentos POO/Getters and Setters/Getters and Setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilares da POO/Pilares da POO.iml" filepath="$PROJECT_DIR$/Pilares da POO/Pilares da POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos POO/Visibilidade de Recursos/Visibilidade de Recursos.iml" filepath="$PROJECT_DIR$/Fundamentos POO/Visibilidade de Recursos/Visibilidade de Recursos.iml" />
+    </modules>
+  </component>
+</project>
