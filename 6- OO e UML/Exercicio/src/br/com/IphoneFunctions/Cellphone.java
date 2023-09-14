@@ -46,10 +46,8 @@ public class Cellphone {
         Browser browser = new Browser();
 
         browser.abrirNovaAba();
-
         browser.visualizarAba(0);
         browser.buscarNoNavegador("Pesquisa");
-
         browser.atualizarAba();
         browser.encerrarNavegador();
     }
